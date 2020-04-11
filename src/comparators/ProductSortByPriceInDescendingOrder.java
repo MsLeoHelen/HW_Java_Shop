@@ -1,3 +1,7 @@
+package comparators;
+
+import entity.Product;
+
 import java.util.Comparator;
 
 public class ProductSortByPriceInDescendingOrder implements Comparator<Product> {

@@ -1,3 +1,7 @@
+package comparators;
+
+import entity.Product;
+
 import java.util.Comparator;
 
 public class ProductSortByTime implements Comparator<Product> {

@@ -1,5 +1,10 @@
 package commands;
 
+import comparators.ProductSortByPriceInAscendingOrder;
+import comparators.ProductSortByPriceInDescendingOrder;
+import comparators.ProductSortByTime;
+import entity.Product;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;

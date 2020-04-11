@@ -1,5 +1,7 @@
 package commands;
 
+import entity.Product;
+
 import java.util.List;
 
 public class EditCommand implements Command<Product> {

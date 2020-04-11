@@ -1,4 +1,6 @@
 import commands.*;
+import entity.Product;
+import entity.Shop;
 
 import java.util.List;
 import java.util.Scanner;
