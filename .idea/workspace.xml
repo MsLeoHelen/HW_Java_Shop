@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a20b1b91-6270-4425-b703-de883d51d059" name="Default Changelist" comment="" />
+    <list default="true" id="2dc15dd2-1c71-462b-85c8-bf59333d509a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,29 +19,20 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1aN4sF2SZAitZucaCw2VojaoQ2l" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1aUdS7dwcDtAi9ZWADzDUAcaAaH" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW_Robot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,8 +48,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="HW_Shop" />
+      <option name="MAIN_CLASS_NAME" value="by.teachmekills.shop.Main" />
+      <module name="an_3_shop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.teachmekills.shop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,18 +66,28 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a20b1b91-6270-4425-b703-de883d51d059" name="Default Changelist" comment="" />
-      <created>1586562921705</created>
+      <changelist id="2dc15dd2-1c71-462b-85c8-bf59333d509a" name="Default Changelist" comment="" />
+      <created>1586794102388</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586562921705</updated>
-      <workItem from="1586562927078" duration="1256000" />
-      <workItem from="1586589761631" duration="24966000" />
+      <updated>1586794102388</updated>
+      <workItem from="1586794105498" duration="10841000" />
+      <workItem from="1586892765423" duration="1268000" />
     </task>
     <servers />
   </component>
