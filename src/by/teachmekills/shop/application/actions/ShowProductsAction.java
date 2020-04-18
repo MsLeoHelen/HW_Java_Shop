@@ -42,7 +42,7 @@ public class ShowProductsAction extends BaseAction implements Action {
 
     private void showMenu() {
         for (Map.Entry<Integer, SortProductAction> entry : SortingConfig.sorting.entrySet()){
-            System.out.println(entry.getKey() + " - " + entry.getValue().name());
+            System.out.println(entry.getKey() + " - " + entry.getValue().getName());
         }
     }
 

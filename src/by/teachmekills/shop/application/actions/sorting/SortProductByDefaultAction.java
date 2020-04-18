@@ -4,7 +4,7 @@ import by.teachmekills.shop.entity.Product;
 
 public class SortProductByDefaultAction implements SortProductAction {
     @Override
-    public String name() {
+    public String getName() {
         return "По добавлению";
     }
 

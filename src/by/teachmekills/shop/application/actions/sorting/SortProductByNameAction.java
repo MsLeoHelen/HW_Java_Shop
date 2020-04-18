@@ -6,7 +6,7 @@ public class SortProductByNameAction implements SortProductAction {
     private static final String NAME = "По названию";
 
     @Override
-    public String name() {
+    public String getName() {
         return NAME;
     }
 

@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dc15dd2-1c71-462b-85c8-bf59333d509a" name="Default Changelist" comment="" />
+    <list default="true" id="2dc15dd2-1c71-462b-85c8-bf59333d509a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/by/teachmekills/shop/application/actions/ReportProductAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/teachmekills/shop/application/util/Output.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmekills/shop/application/actions/ShowProductsAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmekills/shop/application/actions/ShowProductsAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmekills/shop/application/actions/sorting/SortProductAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmekills/shop/application/actions/sorting/SortProductAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmekills/shop/application/actions/sorting/SortProductByDefaultAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmekills/shop/application/actions/sorting/SortProductByDefaultAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmekills/shop/application/actions/sorting/SortProductByNameAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmekills/shop/application/actions/sorting/SortProductByNameAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmekills/shop/application/actions/sorting/SortProductByPriceAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmekills/shop/application/actions/sorting/SortProductByPriceAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/teachmekills/shop/application/config/ActionConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/teachmekills/shop/application/config/ActionConfig.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +28,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -88,10 +101,22 @@
       <updated>1586794102388</updated>
       <workItem from="1586794105498" duration="10841000" />
       <workItem from="1586892765423" duration="1268000" />
+      <workItem from="1587192731527" duration="4491000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
