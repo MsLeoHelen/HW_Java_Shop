@@ -12,7 +12,7 @@ public class ActionConfig {
         actions.put(2, new ShowProductsAction());
         actions.put(3, new UpdateProductAction());
         actions.put(4, new RemoveProductAction());
-        actions.put(5, new ReportProductAction());
+        actions.put(5, new CreateReportAction());
         actions.put(0, new StopApplicationAction());
     }
 }
